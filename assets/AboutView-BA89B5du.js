@@ -1,1 +1,0 @@
-import{c as r,a,o as c}from"./index-2AymayiV.js";import"assets/index-DrT-QY0B.js";const _=(o,t)=>{const e=o.__vccOpts||o;for(const[s,n]of t)e[s]=n;return e},i={},l={class:"about"};function u(o,t){return c(),r("div",l,t[0]||(t[0]=[a("h1",null,"This is an about page",-1)]))}const d=_(i,[["render",u]]);export{d as default};
